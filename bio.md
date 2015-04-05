@@ -7,4 +7,4 @@ I have a BS in Management Information System and Finance from Iowa State Univers
 One interesting fact, I'm actually on vacation and half-way around the world right now (in Vietnam). 12 hours difference is quite interesting to adjust to but I do enjoy the warm weather and the variety of foods that they have here.
 
 Programming background:
-    COBOL, JCL, SQL, C/C++, MASM
+    COBOL, JCL, SQL, C/C++, MASM, C#, Java
