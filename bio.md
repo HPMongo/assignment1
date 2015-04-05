@@ -9,4 +9,7 @@ One interesting fact, I'm actually on vacation and half-way around the world rig
 On my spare-time, I like to read and research about the new technologies. Hopefully, once day, I will be able to work on developing technology for the next decades.
 
 Programming background:
-    COBOL, JCL, SQL, C/C++, MASM, C#, Java
+    COBOL, JCL, SQL, C/C++, MASM, C#, Java, Informatica
+
+Database:
+    IMS, DB2 
